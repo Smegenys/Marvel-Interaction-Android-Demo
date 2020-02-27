@@ -8,7 +8,6 @@ In this demo we used following Animaion
 2. Scale Animation
 3. ValueAnimator 
 
-### If you :heart: the effort then star :star: it.
 <img src="./Preview/preview.gif" alt="Screenshot"/>
 
 ## Credits
