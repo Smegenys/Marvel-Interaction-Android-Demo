@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">marvel design demo</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="tony_stark">Tony is a middle-aged man of average height.He is an American,has Caucasian skin, and brown eyes.</string>
+</resources>
